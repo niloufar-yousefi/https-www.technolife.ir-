@@ -9,6 +9,9 @@
 
 - Technologies Used -Next.js,zustand,formik,yup,swiper,mui,react query
 
+- Role - Frontend
+
+- How to reach me : with my [instagram](https://github.com/niloufar-yousefi) and [linkedin](https://www.linkedin.com/in/niloofar-yoosefikhorram-242742143/)
 
 ![1](https://github.com/user-attachments/assets/a8017829-5d46-4152-9299-ae55e9cda762)
 
@@ -23,9 +26,7 @@
 ![6](https://github.com/user-attachments/assets/e589d59c-2d66-46d1-97dd-337444068e33)
 
 
-- Role - Frontend
 
-- How to reach me : with my [instagram](https://github.com/niloufar-yousefi) and [linkedin](https://www.linkedin.com/in/niloofar-yoosefikhorram-242742143/)
 
 
 
